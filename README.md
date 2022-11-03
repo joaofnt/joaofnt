@@ -1,4 +1,4 @@
-<h1 align="center"> Fala Dev's! Me chamo João tenho 29 anos é sou apaixonado por tecnologia! 👋</h1>
+<h1 align="center"> Fala Dev's! Me chamo João tenho 29 anos, sou apaixonado por tecnologia! 👋</h1>
 
 
 <div align="center">

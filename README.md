@@ -1,6 +1,6 @@
 ### Fala Dev's! Me chamo João tenho 29 anos é sou apaixonado por tecnologia! 👋
 
-<!--
+
 
 ## Ferramentas a qual eu trabalho<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -14,4 +14,4 @@
 
 <div><a href="https://github.com/joaofnt"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
 
--->
+

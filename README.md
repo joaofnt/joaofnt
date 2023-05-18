@@ -1,7 +1,11 @@
-<h1 align="center"> Fala Dev's! Me chamo João tenho 29 anos, sou apaixonado por tecnologia! 👋</h1>
+<h1 align="center"> Olá! Meu nome é João Ferreira e sou um desenvolvedor Java com uma paixão pelo mundo da programação. Atualmente, estou em processo de formação em Análise e Desenvolvimento de Sistemas, buscando adquirir conhecimentos sólidos e atualizados na área.
+
+Minha jornada no desenvolvimento começou há alguns anos e, desde então, tenho me dedicado a aprimorar minhas habilidades em Java. Estou familiarizado com os princípios de programação orientada a objetos e tenho experiência em desenvolvimento de aplicações web e desktop usando frameworks Java, como Spring e JavaFX.
+
+Atualmente estou me especializando em Spring Boot 👋</h1>
 
 
-<div align="center">
+<div align="left">
 <h2>Minhas Habilidades</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
